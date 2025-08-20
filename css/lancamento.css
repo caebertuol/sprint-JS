@@ -37,12 +37,14 @@ img.photocar {
     text-align: left;
     font-size: 14px;
     color: #1351d8;
+    margin-top: 3px;
     
 }
 .textprice {
     display: block;
     text-align: left;
-    font-size: 10px;
+    font-size: 12px;
+    margin-top: 2px;
 }
 
 table {
